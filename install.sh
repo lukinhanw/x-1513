@@ -67,3 +67,4 @@ chmod +x "$SCRIPT_DIR/build-php.sh"
 
 echo "Iniciando instalação automatizada..."
 python3 "$SCRIPT_DIR/install.python3"
+

@@ -48,3 +48,4 @@ chmod +x install.sh
 
 4. **Credenciais e Painel:**
    - Ao término da instalação, as credenciais do banco de dados MySQL e o endereço completo de acesso ao painel de administração serão exibidos no terminal e salvos em `credentials.txt`.
+

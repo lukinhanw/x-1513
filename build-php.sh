@@ -120,3 +120,4 @@ chattr +i /home/xui/bin/php/sbin/php-fpm 2>/dev/null || true
 chattr +i /home/xui/bin/php/bin/php 2>/dev/null || true
 
 echo "PHP 7.4.33 compilado e instalado com sucesso!"
+
